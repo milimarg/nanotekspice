@@ -1,0 +1,10 @@
+a.out
+.idea
+.vscode
+*.o
+*.log
+nanotekspice
+vgcore*
+*.test
+*.bin
+tmp

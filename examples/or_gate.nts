@@ -1,0 +1,14 @@
+#this is a commentary
+.chipsets:
+input a#input are very cool (no)
+input   b
+
+
+
+4071        or
+output  s
+#LINK INCOMING
+           .links:#eeeee
+        a:   1 or:1
+b: 1              or:2
+or:3   s:1
