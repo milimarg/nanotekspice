@@ -15,3 +15,7 @@ make re
 ```
 
 [Available logic gates](./GATES.md)
+
+## Mark
+
+15.25 / 20 (80%)
