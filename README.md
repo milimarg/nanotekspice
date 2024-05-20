@@ -19,3 +19,8 @@ make re
 ## Mark
 
 15.25 / 20 (80%)
+
+## Credits
+
+[Noé TRITSCH](https://github.com/NeonMagique) \
+[Florent GUITTRE](https://github.com/milimarg)
